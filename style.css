@@ -17,17 +17,21 @@ header {
 }
 
 nav {
- 	list-style-type: none;
-    float: right;
+ 	
+}
+.main-nav {
+	list-style-type: none;
     margin-top: 45px;
+    text-align: center;
+
 }
 
 .head-text {
-	width: 1140px;
+	width: 800px;
     color: #fff;
     position: absolute;
     top: 50%;
-    left: 60%;
+    left: 30%;
 }
 .row {
 
