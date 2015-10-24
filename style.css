@@ -1,9 +1,10 @@
 body{
-	background-color: black;
-	font-size: 20px;
-    font-weight: 300;
-    font-family: 'Lato', sans-serif;
-    color: #555;
+	background-color: white;
+}
+.conteiner2{
+	display: inline-block;
+	text-align: center;
+	min-height: 100vh;
 }
 
 header {
@@ -35,4 +36,4 @@ nav {
 }
 .row {
 
-}
+ 
